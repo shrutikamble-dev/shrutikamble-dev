@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Shruti
 
-<!--
-**shrutikamble-dev/shrutikamble-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Graduate  
+Interested in Web Development and Software Development  
+Skilled in Java, JavaScript, Python, and Full Stack Development, and Database Management
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+- Java, Python, JavaScript  
+- React.js, Node.js, Express.js  
+- MySQL  
+- Git, GitHub  
+
+---
+
+## Projects
+
+---
+
+## Contact
+LinkedIn: https://linkedin.com/in/shruti-kamble16
