@@ -2,7 +2,7 @@
 
 Computer Science Graduate  
 Interested in Web Development and Software Development  
-Skilled in Java, JavaScript, Python, and Full Stack Development, and Database Management
+Skilled in Java, JavaScript, Python, Full Stack Development, and Database Management
 
 ---
 
